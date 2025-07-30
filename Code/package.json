@@ -1,0 +1,18 @@
+{
+  "name": "boi-ui-ux-framework",
+  "version": "1.0.0",
+  "description": "Basic Electron UI framework with Win32 API and ML integration placeholders.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^30.0.0",
+    "ffi-napi": "^4.0.3",
+    "ref-napi": "^3.0.3"
+  },
+  "devDependencies": {},
+  "keywords": ["electron", "win32", "ml", "opencv", "tensorflow"],
+  "author": "",
+  "license": "MIT"
+}
